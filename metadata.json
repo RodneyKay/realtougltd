@@ -1,0 +1,6 @@
+{
+  "name": "Realto",
+  "description": "A consumer-focused, Jumia-style real estate marketplace UI for browsing, searching, and saving property buy, rent, and investment opportunities in Uganda and East Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
